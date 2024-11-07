@@ -70,9 +70,6 @@ git push origin feature/nome-do-padrão
 5. Abra um Pull Request para a branch `main` do repositório original
 
 ---
-**Nota:** 
-Este repositório está em constante atualização, novos padrões de projeto serão adicionados conforme forem implementados.
----
 
 ### <img width="28" height="28" src="https://img.icons8.com/officexs/16/usa.png" alt="usa"/>
 ## Design Patterns - Code Examples
